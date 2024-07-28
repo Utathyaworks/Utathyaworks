@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail me at recluse2017@gmail.com
+- 📫 mail me at us4decaich@gmail.com
 
 <!---
 Utathyaworks/Utathyaworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
