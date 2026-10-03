@@ -73,7 +73,7 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utathyaworks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utathyaworks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utathyaworks&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
@@ -81,9 +81,9 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utathyaworks&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utathyaworks&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
-</p>
+</p> -->
 
 <details>
 <summary>🏆 Trophies</summary>
