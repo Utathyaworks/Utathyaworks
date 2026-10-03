@@ -20,12 +20,24 @@ Building toward reliable, interpretable multimodal foundation models that combin
 
 Collaborating with  **CMATER Lab (Jadavpur University)**, **University of Liverpool**, **IIIT Bangalore**, **ISI Kolkata**, **AISC – University of South Carolina**, and **University of Calcutta**.
 
+### 🎓 Prospective PhD Student — Winter 2026 / Fall 2027 intake
+
+Actively applying for PhD positions in **Multimodal AI / Vision-Language Models**. Open to discussing:
+
+- Unified multimodal architectures with grounded reasoning
+- Hallucination detection & information tracking in foundation models
+- Efficient, trustworthy multimodal training
+
+If your lab works on multimodal learning, VLMs, or medical AI and is looking for a motivated PhD student, feel free to reach out — contact details below.
+
 ### 📄 Recent publications
 
 - **TEMPO** — Temporally-grounded Multi-task Post-training for Large Audio-Language Models — *EMNLP 2026 (Oral)*
 - **HCAF-Net** — Hierarchical Cross-Attention Fusion for Retinal Disease Classification — *IEEE CBMS 2026*
 - **CIML** — Coupled Imbalance & Missingness Learning for Multimodal Skin Lesion Classification — *ICONIP 2026*
 - **FAM-Match** — Fractal-Aligned Manifold Matching for Semi-Supervised Medical Image Classification — *CVPRW 2026*
+- **QSFL** — A Quasi-Sequential Federated Learning Framework with Performance-aware Aggregation — *ICPR 2026*
+- **LiFGANet** — Lightweight Frequency and Gradient Aware Network for Robust Image Classification — *ICPR 2026*
 - **DAMM** — Dynamic Modality-Aware Weighted Embeddings Fusion for Multimodal Meme Detection — *Knowledge-Based Systems*
 - **Schizophrenia detection from EEG** using image encoding & wrapper-based deep feature selection — *Scientific Reports*
 
