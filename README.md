@@ -101,7 +101,7 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
 ### 🌍 Visitors by country
 
 <p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Utathyaworks&theme=dark&maxflags=10" alt="Visitors by country"/>
+  <img src="https://s01.flagcounter.com/count2/da05/bg_0D1117/txt_C9D1D9/border_30363D/columns_2/maxflags_10/viewers_Visitors/labels_0/pageviews_1/flags_1/percent_0/" alt="Visitors by country"/>
 </p>
 
 ### 📫 Reach me
