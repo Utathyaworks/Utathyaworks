@@ -41,7 +41,7 @@ If your lab works on multimodal learning, VLMs, or medical AI and is looking for
 - **DAMM** — Dynamic Modality-Aware Weighted Embeddings Fusion for Multimodal Meme Detection — *Knowledge-Based Systems*
 - **Schizophrenia detection from EEG** using image encoding & wrapper-based deep feature selection — *Scientific Reports*
 
-10+ papers across EMNLP, ICPR, ICDAR, CBMS, MIUA, IJCNLP-AACL and more. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ).
+13 papers across EMNLP, ICPR, ICDAR, CBMS, MIUA, IJCNLP-AACL and more. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ).
 
 ### 🧠 Featured repos
 
@@ -85,20 +85,13 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utathyaworks&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
 </p> -->
 
-<details>
-<summary>🏆 Trophies</summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utathyaworks&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-</details>
-
 ### 📚 Scholar stats
 
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fi10-index%3Fuser%3DMV5go8EAAAAJ" alt="i10-index"/></a>
-  <img src="https://img.shields.io/badge/papers-10%2B-blue" alt="Paper count"/>
+  <img src="https://img.shields.io/badge/papers-13-blue" alt="Paper count"/>
 </p>
 
 <!-- Citations, h-index & i10-index pull live from Google Scholar (MV5go8EAAAAJ) on every page load.
