@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/utathyaaich">LinkedIn</a> ·
-  <a href="https://scholar.google.com/">Google Scholar</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ">Google Scholar</a> ·
   <a href="https://utathya.com">utathya.com</a> ·
   us4decaich@gmail.com
 </p>
@@ -41,7 +41,7 @@ If your lab works on multimodal learning, VLMs, or medical AI and is looking for
 - **DAMM** — Dynamic Modality-Aware Weighted Embeddings Fusion for Multimodal Meme Detection — *Knowledge-Based Systems*
 - **Schizophrenia detection from EEG** using image encoding & wrapper-based deep feature selection — *Scientific Reports*
 
-10+ papers across EMNLP, ICPR, ICDAR, CBMS, MIUA, IJCNLP-AACL and more. Full list in the [résumé](https://github.com/Utathyaworks) / Google Scholar.
+10+ papers across EMNLP, ICPR, ICDAR, CBMS, MIUA, IJCNLP-AACL and more. Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ).
 
 ### 🧠 Featured repos
 
@@ -92,8 +92,28 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
 </p>
 </details>
 
+### 📚 Scholar stats
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fi10-index%3Fuser%3DMV5go8EAAAAJ" alt="i10-index"/></a>
+  <img src="https://img.shields.io/badge/papers-10%2B-blue" alt="Paper count"/>
+</p>
+
+<!-- Citations, h-index & i10-index pull live from Google Scholar (MV5go8EAAAAJ) on every page load.
+     The paper-count badge is static — Scholar doesn't expose a free live "document count" endpoint;
+     update the number by hand as new papers are added. -->
+
+### 🌍 Visitors by country
+
+<p align="center">
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=Utathyaworks&theme=dark&maxflags=10" alt="Visitors by country"/>
+</p>
+
 ### 📫 Reach me
 
 - Email: us4decaich@gmail.com
 - LinkedIn: [utathyaaich](https://linkedin.com/in/utathyaaich)
+- Google Scholar: [MV5go8EAAAAJ](https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ)
 - Portfolio: [utathya.com](https://utathya.com)
