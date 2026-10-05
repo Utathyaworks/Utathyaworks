@@ -14,8 +14,6 @@
 
 ---
 
-### 📚 Scholar stats
-
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
