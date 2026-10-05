@@ -14,6 +14,19 @@
 
 ---
 
+### 📚 Scholar stats
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fi10-index%3Fuser%3DMV5go8EAAAAJ" alt="i10-index"/></a>
+  <img src="https://img.shields.io/badge/papers-13-blue" alt="Paper count"/>
+</p>
+
+<!-- Citations, h-index & i10-index pull live from Google Scholar (MV5go8EAAAAJ) on every page load.
+     The paper-count badge is static — Scholar doesn't expose a free live "document count" endpoint;
+     update the number by hand as new papers are added. -->
+
 ### 🔭 Research focus
 
 Building toward reliable, interpretable multimodal foundation models that combine vision, language, and audio. Currently working on cross-modal alignment; exploring unified multimodal architectures with grounded reasoning, hallucination detection in foundation models, and efficient/trustworthy multimodal training.
@@ -85,18 +98,7 @@ Previously co-founded **VARSHA** (Asymptotic Technologies) — an Uber-style amb
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utathyaworks&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
 </p> -->
 
-### 📚 Scholar stats
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fi10-index%3Fuser%3DMV5go8EAAAAJ" alt="i10-index"/></a>
-  <img src="https://img.shields.io/badge/papers-13-blue" alt="Paper count"/>
-</p>
-
-<!-- Citations, h-index & i10-index pull live from Google Scholar (MV5go8EAAAAJ) on every page load.
-     The paper-count badge is static — Scholar doesn't expose a free live "document count" endpoint;
-     update the number by hand as new papers are added. -->
 
 ### 📫 Reach me
 
