@@ -12,8 +12,6 @@
   us4decaich@gmail.com
 </p>
 
----
-
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DMV5go8EAAAAJ" alt="Citations"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=MV5go8EAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fh-index%3Fuser%3DMV5go8EAAAAJ" alt="h-index"/></a>
@@ -24,6 +22,8 @@
 <!-- Citations, h-index & i10-index pull live from Google Scholar (MV5go8EAAAAJ) on every page load.
      The paper-count badge is static — Scholar doesn't expose a free live "document count" endpoint;
      update the number by hand as new papers are added. -->
+
+
 
 ### 🔭 Research focus
 
